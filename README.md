@@ -8,8 +8,12 @@
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/codesbysuman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/codesbysuman"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/codesbysuman">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/codesbysuman?tab=followers">
+    <img src="https://img.shields.io/badge/Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+  </a>
 </p>
 
 ---
@@ -37,8 +41,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codesbysuman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbysuman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codesbysuman&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbysuman&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
