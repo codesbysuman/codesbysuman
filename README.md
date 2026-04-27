@@ -1,15 +1,11 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
-  Hello there! I'm Suman
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
+  Hello! I'm Suman
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Open-Source+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </h3>
-
-<p align="center">
-  A passionate developer crafting beautiful, scalable, and efficient applications. Turning coffee into code and ideas into reality.
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/codesbysuman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,20 +14,13 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesbysuman&theme=tokyonight&no-bg=true&margin-w=15" alt="codesbysuman Trophies" /></a>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Insert Project Name]**
-- 🌱 I’m currently diving deep into **Advanced JavaScript & Backend Architecture**
-- 👯 I’m looking to collaborate on **Open Source Web Apps**
-- 💬 Ask me about **React, Node.js, and Databases**
-- ⚡ Fun fact: **I spend as much time naming variables as I do writing the code.**
+- 🔭 I’m currently working on **Modern Web Architectures**
+- 🌱 I’m currently diving deep into **Advanced JavaScript & System Design**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Node.js, and Database Optimization**
+- ⚡ Fun fact: **I speak both Human and Code fluently.**
 
 ---
 
@@ -50,10 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codesbysuman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codesbysuman&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codesbysuman&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
