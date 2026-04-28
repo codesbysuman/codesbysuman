@@ -20,8 +20,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Modern Web Architectures**
-- 🌱 I’m currently diving deep into **Advanced JavaScript & System Design**
+- 🔭 I’m currently working on **Exam Prep Web App (nextjs)**
+- 🌱 I’m currently diving deep into **Advanced JavaScript & NextJS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, and Database Optimization**
 - ⚡ Fun fact: **I speak both Human and Code fluently.**
