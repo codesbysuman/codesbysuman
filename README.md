@@ -1,4 +1,4 @@
-<h1 align="center">
+qqq%q)<h1 align="center">
   Hello! I'm Suman
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
 </h1>
@@ -24,7 +24,6 @@
 - 🌱 I’m currently diving deep into **Advanced JavaScript & NextJS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, and Database Optimization**
-- ⚡ Fun fact: **I speak both Human and Code fluently.**
 
 ---
 
