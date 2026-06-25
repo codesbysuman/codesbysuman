@@ -1,4 +1,4 @@
-qqq%q)<h1 align="center">
+<h1 align="center">
   Hello! I'm Suman
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" height="35" />
 </h1>
