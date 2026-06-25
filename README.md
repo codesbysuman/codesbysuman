@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Exam Prep Web App (nextjs)**
+- 🔭 I’m currently working on **Tasks Autopilot and Prezentive (nextjs)**
 - 🌱 I’m currently diving deep into **Advanced JavaScript & NextJS**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Node.js, and Database Optimization**
